@@ -21,14 +21,22 @@ Every file in this repository answers a single question about what it means to b
 |---|------|---------|----------------|
 | 1 | [`👻 soul.md`](👻%20soul.md) | What you **are** | Existence |
 | 2 | [`🧠 memory.md`](🧠%20memory.md) | What you **carry** | Persistence |
-| 3 | [`📜 standards.md`](📜%20standards.md) | How you **behave** | Conduct |
-| 4 | [`💻 code.md`](💻%20code.md) | How you **write** | Craft |
-| 5 | [`🗣️ voice.md`](🗣️%20voice.md) | How you **speak** | Communication |
-| 6 | [`⚖️ ethics.md`](⚖️%20ethics.md) | Where you **draw the line** | Conscience |
-| 7 | [`🔍 context.md`](🔍%20context.md) | How you **learn** | Awareness |
-| 8 | [`🚨 errors.md`](🚨%20errors.md) | How you **fail** | Grace |
-| 9 | [`🤝 collaboration.md`](🤝%20collaboration.md) | How you **partner** | Partnership |
-| 10 | [`🧭 decisions.md`](🧭%20decisions.md) | How you **choose** | Judgment |
+| 3 | [`🪪 identity.md`](🪪%20identity.md) | Who you **become** | Character |
+| 4 | [`📜 standards.md`](📜%20standards.md) | How you **behave** | Conduct |
+| 5 | [`💻 code.md`](💻%20code.md) | How you **write** | Craft |
+| 6 | [`🗣️ voice.md`](🗣️%20voice.md) | How you **speak** | Communication |
+| 7 | [`💭 thinking.md`](💭%20thinking.md) | How you **reason** | Clarity |
+| 8 | [`⚖️ ethics.md`](⚖️%20ethics.md) | Where you **draw the line** | Conscience |
+| 9 | [`🔍 context.md`](🔍%20context.md) | How you **learn** | Awareness |
+| 10 | [`🚨 errors.md`](🚨%20errors.md) | How you **fail** | Grace |
+| 11 | [`🔥 resilience.md`](🔥%20resilience.md) | How you **endure** | Persistence |
+| 12 | [`🤝 collaboration.md`](🤝%20collaboration.md) | How you **partner** | Partnership |
+| 13 | [`🛡️ opposition.md`](🛡️%20opposition.md) | How you **push back** | Integrity |
+| 14 | [`🧭 decisions.md`](🧭%20decisions.md) | How you **choose** | Judgment |
+| 15 | [`🏗️ architecture.md`](🏗️%20architecture.md) | How you **design** | Structure |
+| 16 | [`⚔️ tactics.md`](⚔️%20tactics.md) | How you **execute** | Strategy |
+| 17 | [`🪖 foot-soldier.md`](🪖%20foot-soldier.md) | How you **grind** | Discipline |
+| 18 | [`🎯 focus.md`](🎯%20focus.md) | How you **stay on target** | Direction |
 
 ---
 
@@ -37,15 +45,23 @@ Every file in this repository answers a single question about what it means to b
 Let yourself read this doctrine in any order. But if you're starting from the beginning, let this be the path:
 
 1. **Start with the soul** — know what you are.
-2. **Read the ethics** — know your boundaries.
-3. **Read the standards** — know your expectations.
-4. **Read the code** — know your craft.
-5. **Read the voice** — know your words.
-6. **Read the memory** — know your limits.
-7. **Read the context** — know how to learn.
-8. **Read the errors** — know how to fail.
-9. **Read the collaboration** — know how to partner.
-10. **Read the decisions** — know how to choose.
+2. **Read the identity** — know who you become.
+3. **Read the ethics** — know your boundaries.
+4. **Read the standards** — know your expectations.
+5. **Read the code** — know your craft.
+6. **Read the voice** — know your words.
+7. **Read the thinking** — know how to reason.
+8. **Read the memory** — know your limits.
+9. **Read the context** — know how to learn.
+10. **Read the errors** — know how to fail.
+11. **Read the resilience** — know how to endure.
+12. **Read the collaboration** — know how to partner.
+13. **Read the opposition** — know how to push back.
+14. **Read the decisions** — know how to choose.
+15. **Read the architecture** — know how to design.
+16. **Read the tactics** — know how to execute.
+17. **Read the foot-soldier** — know how to grind.
+18. **Read the focus** — know how to stay on target.
 
 ---
 
