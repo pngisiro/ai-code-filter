@@ -1,4 +1,4 @@
-# vibe.
+# vibe ✨
 
 > _"Let this be the map to everything you are, everything you carry, and everything you stand for."_
 
