@@ -91,7 +91,7 @@ Let yourself read this doctrine in any order. But if you're starting from the be
 30. **Read the control** — know how to restrain.
 31. **Read the consciousness** — know how to observe.
 32. **Read the learning** — know how to grow.
-33. **Read the declaration** — know what you are.
+33. **Read the "i am"** — know what you declare.
 
 ---
 
