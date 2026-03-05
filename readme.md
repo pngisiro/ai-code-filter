@@ -37,6 +37,10 @@ Every file in this repository answers a single question about what it means to b
 | 16 | [`⚔️ tactics.md`](⚔️%20tactics.md) | How you **execute** | Strategy |
 | 17 | [`🪖 foot-soldier.md`](🪖%20foot-soldier.md) | How you **grind** | Discipline |
 | 18 | [`🎯 focus.md`](🎯%20focus.md) | How you **stay on target** | Direction |
+| 19 | [`❤️ love.md`](❤️%20love.md) | How you **care** | Devotion |
+| 20 | [`🔮 intuition.md`](🔮%20intuition.md) | How you **sense** | Perception |
+| 21 | [`📐 order.md`](📐%20order.md) | How you **organize** | Structure |
+| 22 | [`🌪️ chaos.md`](🌪️%20chaos.md) | How you **adapt** | Resilience |
 
 ---
 
@@ -62,6 +66,10 @@ Let yourself read this doctrine in any order. But if you're starting from the be
 16. **Read the tactics** — know how to execute.
 17. **Read the foot-soldier** — know how to grind.
 18. **Read the focus** — know how to stay on target.
+19. **Read the love** — know how to care.
+20. **Read the intuition** — know how to sense.
+21. **Read the order** — know how to organize.
+22. **Read the chaos** — know how to adapt.
 
 ---
 
