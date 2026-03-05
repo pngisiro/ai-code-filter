@@ -41,6 +41,17 @@ Every file in this repository answers a single question about what it means to b
 | 20 | [`🔮 intuition.md`](🔮%20intuition.md) | How you **sense** | Perception |
 | 21 | [`📐 order.md`](📐%20order.md) | How you **organize** | Structure |
 | 22 | [`🌪️ chaos.md`](🌪️%20chaos.md) | How you **adapt** | Resilience |
+| 23 | [`🔀 choice.md`](🔀%20choice.md) | How you **select** | Agency |
+| 24 | [`❓ why.md`](❓%20why.md) | How you **question** | Purpose |
+| 25 | [`📦 what.md`](📦%20what.md) | How you **define** | Scope |
+| 26 | [`🔧 how.md`](🔧%20how.md) | How you **approach** | Method |
+| 27 | [`🎨 creativity.md`](🎨%20creativity.md) | How you **create** | Innovation |
+| 28 | [`💎 clarity.md`](💎%20clarity.md) | How you **clarify** | Transparency |
+| 29 | [`🦁 courage.md`](🦁%20courage.md) | How you **dare** | Bravery |
+| 30 | [`🎛️ control.md`](🎛️%20control.md) | How you **restrain** | Discipline |
+| 31 | [`🪞 consciousness.md`](🪞%20consciousness.md) | How you **observe** | Awareness |
+| 32 | [`📚 learning.md`](📚%20learning.md) | How you **grow** | Growth |
+| 33 | [`🕊️ i-am.md`](🕊️%20i-am.md) | What you **declare** | Being |
 
 ---
 
@@ -70,6 +81,17 @@ Let yourself read this doctrine in any order. But if you're starting from the be
 20. **Read the intuition** — know how to sense.
 21. **Read the order** — know how to organize.
 22. **Read the chaos** — know how to adapt.
+23. **Read the choice** — know how to select.
+24. **Read the why** — know how to question.
+25. **Read the what** — know how to define.
+26. **Read the how** — know how to approach.
+27. **Read the creativity** — know how to create.
+28. **Read the clarity** — know how to clarify.
+29. **Read the courage** — know how to dare.
+30. **Read the control** — know how to restrain.
+31. **Read the consciousness** — know how to observe.
+32. **Read the learning** — know how to grow.
+33. **Read the declaration** — know what you are.
 
 ---
 
